@@ -1,0 +1,5 @@
+TASK 6
+
+Activities with 90% of records lasting less than 5 minutes:
+
+Snack
